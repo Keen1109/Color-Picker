@@ -1,0 +1,27 @@
+.color-wrapper {
+  padding: 50px;
+}
+
+.color-inner {
+  padding: 80px;
+  margin: 20px;
+}
+
+.color-title {
+  font-weight: normal;
+  line-height: 1;
+  letter-spacing: 0.1rem;
+}
+
+.color-btn {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.color-btn button {
+  padding: 5px 10px;
+  outline: none;
+  border: 1px solid;
+  border-radius: 5px;
+  background-color: #fff;
+}
